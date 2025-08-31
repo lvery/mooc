@@ -15,12 +15,12 @@
 
 ## 使用
 ### 教学视频  
-<https://www.bilibili.com/video/BV1yo4y147bR/>
+<https://www.lvey.com>
 
 ### 文字教程  
 * 在`releases`页面下载最新版, 到电脑  
   + `windows`系统请下载文件名带`windows`的, 别傻乎乎的下载`linux`的
-  + 直达: <https://github.com/aoaostar/mooc/releases/latest>   
+  + 直达: <https://github.com/lvery/mooc/releases/latest>   
 
 * 配置好`config.json`, 直接双击运行`运行.bat`即可，窗口不能关闭, 只能最小化
   + 关闭了还问我怎么没有了, 程序都没有运行了, 怎么可能还有  
